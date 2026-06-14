@@ -80,6 +80,7 @@ A continuación explicaremos en detalle las 5 herramientas de código abierto se
 Luego de investigar y comparar estas herramientas, queda claro que no existe una sola opción que sea perfecta para todo. La mejor elección depende de lo que necesite cada desarrollador o administrador. Por ejemplo, DBeaver es la opción más completa y potente para trabajos pesados, ya que permite ver gráficos de la base de datos y manejar mucha información. En cambio, si buscas un diseño moderno, limpio y que sea muy fácil de usar en el día a día, Beekeeper Studio es la mejor alternativa.
 
 Por otra parte, si necesitas administrar un servidor a la distancia o resolver una emergencia rápido sin instalar programas pesados, las opciones web como Adminer o Pgweb son excelentes porque son ligeras, rápidas y consumen muy pocos recursos. Finalmente, HeidiSQL sigue siendo una opción clásica, rápida y muy confiable si trabajas específicamente en el sistema operativo Windows.
+
 ---
 
 ## 5. Referencias
