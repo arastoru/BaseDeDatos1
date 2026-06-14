@@ -1,6 +1,6 @@
 # Actividad N°1: Herramientas Open Source para Administrar PostgreSQL
 
-**Asignatura:** Base de Datos 1  
+**Materia:** Base de Datos 1  
 **Docente:** Ing. Jared López L.  
 **Estudiante:** Franz Andres Almanza Galindo  
 **Institución:** Universidad Privada Domingo Savio (UPDS)  
@@ -11,15 +11,15 @@
 
 ## 1. Introducción
 
-PostgreSQL se ha consolidado como uno de los sistemas de gestión de bases de datos relacionales orientadas a objetos (ORDBMS) más potentes, estables y robustos del mercado tecnológico. Al ser un motor de nivel empresarial, su administración eficiente requiere de utilidades operativas que faciliten tareas complejas como la ejecución de scripts SQL, el modelado de datos, la gestión de usuarios, el mantenimiento de esquemas y el monitoreo del rendimiento.
+PostgreSQL es uno de los sistemas de bases de datos más potentes, estables y utilizados en el mundo tecnológico. Al ser un sistema tan completo y profesional, administrarlo de forma eficiente puede ser complicado. Por eso, se necesitan herramientas que ayuden a realizar tareas como escribir códigos SQL, organizar los datos, gestionar usuarios y revisar que todo esté funcionando rápido y sin errores.
 
-En este contexto, el ecosistema *Open Source* (Código Abierto) juega un rol fundamental. Estas herramientas garantizan la transparencia, la auditoría del código, la flexibilidad de despliegue y la eliminación absoluta de costos por licenciamiento comercial restrictivo. El uso de herramientas de administración funcionales, ya sea mediante interfaces gráficas de escritorio (GUI) o plataformas basadas en entornos Web, optimiza significativamente el flujo de trabajo tanto de los desarrolladores de software como de los administradores de bases de datos (DBA), permitiendo interactuar con el servidor de forma visual e intuitiva sin sacrificar control, seguridad ni rendimiento.
+En este punto, las herramientas de código abierto (Open Source) son de gran ayuda. Al ser gratuitas y libres, permiten ahorrar costos de licencias caras y dan total libertad para usarlas. Estas herramientas, ya sean programas para la computadora (GUI) o páginas web, hacen que el trabajo de los desarrolladores y administradores sea mucho más rápido y visual, permitiendo controlar la base de datos de forma sencilla, segura y eficiente.
 
 ---
 
 ## 2. Metodología
 
-Para el desarrollo de esta investigación y la correspondiente selección de herramientas, se aplicó un enfoque metodológico basado en el análisis documental y la evaluación tecnológica estructurada en las siguientes fases:
+Para el desarrollo de esta investigación y la correspondiente selección de herramientas, se empleo la IA para facilitar la elaboracion de esta investigacion y se aplicó un enfoque metodológico basado en el análisis documental y la evaluación tecnológica estructurada en las siguientes fases:
 
 1. **Criterios de Búsqueda:** Se definieron parámetros y palabras clave específicas de consulta, tales como *"PostgreSQL open source administration tool"*, *"PostgreSQL GUI client GitHub"*, y *"Free Postgres web client"*. Las búsquedas se centraron en repositorios globales de código abierto como **GitHub** y **SourceForge**, así como en los directorios comunitarios validados por la propia comunidad global de PostgreSQL.
 2. **Filtros de Inclusión y Exclusión:** Se aplicaron filtros de selección rigurosos para descartar soluciones de software privativo, versiones de prueba temporales (trial) o software comercial de código cerrado (por ejemplo, DataGrip). Solo se seleccionaron proyectos activos, estables y de uso libre con licencias de software libre explícitas.
@@ -29,7 +29,7 @@ Para el desarrollo de esta investigación y la correspondiente selección de her
 
 ## 3. Desarrollo
 
-A continuación, se detallan las 5 herramientas de código abierto seleccionadas que cumplen estrictamente con los criterios de idoneidad y licenciamiento establecidos:
+A continuación explicaremos en detalle las 5 herramientas de código abierto seleccionadas que cumplen estrictamente con los criterios adecuados y licenciamiento establecidos:
 
 ### 1. DBeaver (Community Edition)
 * **Licencia:** Apache License 2.0
@@ -77,10 +77,9 @@ A continuación, se detallan las 5 herramientas de código abierto seleccionadas
 
 ### Conclusión Personal
 
-La investigación y análisis comparativo de estas herramientas de código abierto permiten concluir que no existe una única solución universal perfecta, sino que la elección óptima se rige estrictamente por el escenario operativo del administrador o desarrollador de software. **DBeaver (Community Edition)** se consolida como la alternativa de escritorio más robusta e integral para flujos de trabajo profesionales exigentes gracias a su motor analítico y su capacidad de modelado gráfico de entidades. En contraposición, cuando el entorno demanda un diseño moderno, ágil y centrado en la usabilidad del código, **Beekeeper Studio** proporciona la interfaz de usuario más intuitiva y fluida. 
+Luego de investigar y comparar estas herramientas, queda claro que no existe una sola opción que sea perfecta para todo. La mejor elección depende de lo que necesite cada desarrollador o administrador. Por ejemplo, DBeaver es la opción más completa y potente para trabajos pesados, ya que permite ver gráficos de la base de datos y manejar mucha información. En cambio, si buscas un diseño moderno, limpio y que sea muy fácil de usar en el día a día, Beekeeper Studio es la mejor alternativa.
 
-Para labores de administración en servidores remotos restringidos o contingencias operativas donde la instalación de un cliente pesado local no es factible, las soluciones web como **Adminer** e instalaciones nativas directas como **Pgweb** demuestran que la simplicidad arquitectónica, la portabilidad y el bajo consumo de recursos son cruciales para resolver incidentes en tiempo real de forma segura. Finalmente, **HeidiSQL** destaca como una opción clásica, confiable y de alta velocidad óptima para sistemas operativos Windows.
-
+Por otra parte, si necesitas administrar un servidor a la distancia o resolver una emergencia rápido sin instalar programas pesados, las opciones web como Adminer o Pgweb son excelentes porque son ligeras, rápidas y consumen muy pocos recursos. Finalmente, HeidiSQL sigue siendo una opción clásica, rápida y muy confiable si trabajas específicamente en el sistema operativo Windows.
 ---
 
 ## 5. Referencias
