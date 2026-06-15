@@ -2,7 +2,7 @@
 
 **Materia:** Base de Datos 1  
 **Docente:** Ing. Jared López L.  
-**Estudiante:** Maria Fernanda Vidaurre Alvarado 
+**Estudiante:** Maria Fernanda Vidaurre Alvarado.    
 **Institución:** Universidad Privada Domingo Savio (UPDS)  
 **Unidad:** Introducción a los Sistemas de Gestión de Bases de Datos  
 **Fecha:** 14 de junio de 2026  
